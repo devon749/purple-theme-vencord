@@ -19,8 +19,8 @@
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
-  --rgb-highlight:46,20,56; /* The main highlight color */
-  --rgb-background: 128, 28, 128; /* The main background color */
+  --rgb-highlight:128,28,128; /* The main highlight color */
+  --rgb-background: 46,20,56; /* The main background color */
   --rgb-text: 199, 213, 214; /* The main text color */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
